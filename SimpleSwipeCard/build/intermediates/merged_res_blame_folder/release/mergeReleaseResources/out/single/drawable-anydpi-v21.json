@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "de.niborblog.simpleswipecard.SimpleSwipeCard-release-38:/drawable-anydpi-v21/ic_call_answer_video.xml",
+        "source": "de.niborblog.simpleswipecard.SimpleSwipeCard-core-1.12.0-31:/drawable-anydpi-v21/ic_call_answer_video.xml"
+    },
+    {
+        "merged": "de.niborblog.simpleswipecard.SimpleSwipeCard-release-38:/drawable-anydpi-v21/ic_call_answer.xml",
+        "source": "de.niborblog.simpleswipecard.SimpleSwipeCard-core-1.12.0-31:/drawable-anydpi-v21/ic_call_answer.xml"
+    },
+    {
+        "merged": "de.niborblog.simpleswipecard.SimpleSwipeCard-release-38:/drawable-anydpi-v21/ic_call_answer_low.xml",
+        "source": "de.niborblog.simpleswipecard.SimpleSwipeCard-core-1.12.0-31:/drawable-anydpi-v21/ic_call_answer_low.xml"
+    },
+    {
+        "merged": "de.niborblog.simpleswipecard.SimpleSwipeCard-release-38:/drawable-anydpi-v21/ic_call_answer_video_low.xml",
+        "source": "de.niborblog.simpleswipecard.SimpleSwipeCard-core-1.12.0-31:/drawable-anydpi-v21/ic_call_answer_video_low.xml"
+    },
+    {
+        "merged": "de.niborblog.simpleswipecard.SimpleSwipeCard-release-38:/drawable-anydpi-v21/ic_call_decline_low.xml",
+        "source": "de.niborblog.simpleswipecard.SimpleSwipeCard-core-1.12.0-31:/drawable-anydpi-v21/ic_call_decline_low.xml"
+    },
+    {
+        "merged": "de.niborblog.simpleswipecard.SimpleSwipeCard-release-38:/drawable-anydpi-v21/ic_call_decline.xml",
+        "source": "de.niborblog.simpleswipecard.SimpleSwipeCard-core-1.12.0-31:/drawable-anydpi-v21/ic_call_decline.xml"
+    }
+]

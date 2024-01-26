@@ -1,0 +1,6 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="notice" value="Copyright (c) Robin Fey &amp;#36;originalComment.match(&quot;Copyright \(c\) (\d+)&quot;, 1, &quot;-&quot;, &quot;&amp;#36;today.year&quot;)&amp;#36;today.year.&#10;Alle Rechte vorbehalten.&#10;Die Verwendung, Vervielfältigung oder Veränderung dieses Codes oder von Teilen&#10;davon, in jeglicher Form, ohne schriftliche Genehmigung des Autors ist untersagt.&#10;Eine Genehmigung kann beim Autor angefragt werden unter info@niborblog.de." />
+    <option name="myName" value="Robin Fey" />
+  </copyright>
+</component>

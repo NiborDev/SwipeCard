@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="E:\AndroidProjekte\GestureTest\SimpleSwipeCard"
+    name=":SimpleSwipeCard"
+    type="LIBRARY"
+    maven="GestureTest:SimpleSwipeCard:"
+    agpVersion="8.3.0-beta02"
+    buildFolder="build"
+    bootClassPath="E:\Users\robin\AppData\Local\Android\Sdk\platforms\android-34\android.jar;E:\Users\robin\AppData\Local\Android\Sdk\build-tools\34.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="debug"/>
+</lint-module>

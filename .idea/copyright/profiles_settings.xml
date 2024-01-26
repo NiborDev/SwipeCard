@@ -1,0 +1,8 @@
+<component name="CopyrightManager">
+  <settings default="Robin Fey">
+    <module2copyright>
+      <element module="All" copyright="Robin Fey" />
+      <element module="Project Files" copyright="Robin Fey" />
+    </module2copyright>
+  </settings>
+</component>

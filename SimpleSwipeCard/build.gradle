@@ -1,7 +1,7 @@
 plugins {
     alias(libs.plugins.androidLibrary)
     alias(libs.plugins.jetbrainsKotlinAndroid)
-    id("maven-publish")
+    id 'maven-publish'
 }
 
 android {
@@ -39,7 +39,36 @@ android {
             excludes += ['META-INF/androidx.compose.material3_material3.version']
         }
     }
+}
 
+publishing {
+    publications {
+        mavenJava(MavenPublication) {
+            pom {
+                name = 'SwipeCard'
+                description = 'SwipeCard is a Jetpack Compose Library that allows cards to be interacted with using swipe gestures. SwipeCard is suitable, for example, for applications that want to use flashcards for learning or quizzes. '
+                url = 'https://github.com/NiborDev/SwipeCard'
+                licenses {
+                    license {
+                        name = 'The Apache License, Version 2.0'
+                        url = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
+                    }
+                }
+                developers {
+                    developer {
+                        id = 'robinf'
+                        name = 'Robin Fey'
+                        email = 'info@niborblog.de'
+                    }
+                }
+                scm {
+                    connection = 'scm:git:git://github.com/NiborDev/SwipeCard.git'
+                    developerConnection = 'scm:git:ssh://github.com/NiborDev/SwipeCard.git'
+                    url = 'http://github.com/NiborDev/SwipeCard'
+                }
+            }
+        }
+    }
 }
 
 dependencies {

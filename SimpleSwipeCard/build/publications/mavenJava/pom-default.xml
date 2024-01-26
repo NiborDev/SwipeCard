@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>GestureTest</groupId>
+  <artifactId>SimpleSwipeCard</artifactId>
+  <version>unspecified</version>
+  <packaging>pom</packaging>
+  <name>SwipeCard</name>
+  <description>SwipeCard is a Jetpack Compose Library that allows cards to be interacted with using swipe gestures. SwipeCard is suitable, for example, for applications that want to use flashcards for learning or quizzes. </description>
+  <url>https://github.com/NiborDev/SwipeCard</url>
+  <licenses>
+    <license>
+      <name>The Apache License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>robinf</id>
+      <name>Robin Fey</name>
+      <email>info@niborblog.de</email>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:git://github.com/NiborDev/SwipeCard.git</connection>
+    <developerConnection>scm:git:ssh://github.com/NiborDev/SwipeCard.git</developerConnection>
+    <url>http://github.com/NiborDev/SwipeCard</url>
+  </scm>
+</project>
